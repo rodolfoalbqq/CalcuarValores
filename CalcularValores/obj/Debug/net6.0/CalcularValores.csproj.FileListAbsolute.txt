@@ -1,0 +1,5 @@
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.csproj.AssemblyReference.cache
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.AssemblyInfo.cs
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.csproj.CoreCompileInputs.cache
