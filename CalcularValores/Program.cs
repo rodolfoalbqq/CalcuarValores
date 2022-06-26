@@ -1,46 +1,56 @@
-﻿static void calcular(float pValor1, float pValor2, TipoExpresao expresao)
-{
-    float Valor1 = 0;
-    float Valor2 = 0;
-    int Exprecao = 0;
-    System.Console.WriteLine("Informe os valores:");
+﻿using System;
+using System.Text;
+using System.Collections.Generic;
 
-    System.Console.WriteLine("Primeiro valor:");
-    Valor1 = float.Parse(Console.ReadLine());
+namespace Calculadora
+{ 
 
-    System.Console.WriteLine("Segundo valor:");
-    Valor2 = float.Parse(Console.ReadLine());
-
-    System.Console.WriteLine("Informe a Expresao, 0 - Somar, 1 - Subtrair, 2 - Multiplicar, 3 - Dividir");
-    Exprecao = int.Parse(Console.ReadLine());
-
-    calculaValor(Valor1, Valor2, (TipoExpresao)Exprecao);
-    System.Console.ReadLine();
-
-
-    float valor = 0;
-    switch (expresao)
+    class Program
+    { 
+    static void Main(string[] args)
     {
-        case TipoExpresao.Somar:
-            valor = pValor1 + pValor2;
-            break;
+        double num1, num2;
+        int resul = 0;
 
-        case TipoExpresao.Subitrair:
-            valor = pValor1 - pValor2;
-            break;
+        Console.WriteLine("Digite um valor");
+        num1 = double.Parse(Console.ReadLine());
+        Console.WriteLine("Digite outro valor");
+        num2 = double.Parse(Console.ReadLine());
 
-        case TipoExpressao.Multiplicar:
-            valor = pValor1 * pValor2;
-            break;
+        Console.Clear();
 
-        case TipoExpresao.Dividir:
-            valor = pValor1 / pValor2:
-            break;
+        while (resul != 5)
+        {
+            Console.WriteLine(" + digite 1");
+            Console.WriteLine(" - digite 2");
+            Console.WriteLine(" / digite 3");
+            Console.WriteLine(" * digite 4");
+            Console.WriteLine(" digite 5 pra sair");
+            resul = int.Parse(Console.ReadLine());
+            if (resul == 1)
+            {
+                Console.WriteLine("Soma = {0}", num1 + num2);
+            }
+            if (resul == 2)
+            {
+                Console.WriteLine("Subtração = {0}", num1 - num2);
+            }
+            if (resul == 3)
+            {
+                Console.WriteLine("Divisão = {0}", num1 / num2);
+            }
+            if (resul == 4)
+            {
+                Console.WriteLine("Multiplicação = {0}", num1 * num2);
+
+            }
+            Console.ReadLine();
+            Console.Clear();
+        }
     }
-     System.Console.WriteLine("Resultado :" + valor);
-        
+
+
+
+    }
 
 }
-
-
-   

@@ -3,3 +3,13 @@ C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\n
 C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.AssemblyInfoInputs.cache
 C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.AssemblyInfo.cs
 C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\bin\Debug\net6.0\CalcularValores.exe
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\bin\Debug\net6.0\CalcularValores.deps.json
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\bin\Debug\net6.0\CalcularValores.runtimeconfig.json
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\bin\Debug\net6.0\CalcularValores.dll
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\bin\Debug\net6.0\CalcularValores.pdb
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.dll
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\refint\CalcularValores.dll
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.pdb
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\CalcularValores.genruntimeconfig.cache
+C:\Users\Rodolfo Albuquerque\Desktop\CalcularValores\CalcularValores\obj\Debug\net6.0\ref\CalcularValores.dll
